@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "96899027797",
+    "project_id": "canderm-ac3bb",
+    "storage_bucket": "canderm-ac3bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96899027797:android:6e406772e4353bfe9d15dc",
+        "android_client_info": {
+          "package_name": "com.example.canderm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96899027797-ecj255d54kol2jknhkilouf8qsq31q9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.canderm",
+            "certificate_hash": "7f410355a38f1ba18538d0de0f061f0262149347"
+          }
+        },
+        {
+          "client_id": "96899027797-hii09du2m47jgd3fgdf7j2dtogtqjmaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0KwEZlhrPUdHJksMspKlsqFXgLDygU9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96899027797-hii09du2m47jgd3fgdf7j2dtogtqjmaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96899027797-gbda8lbbr9blav5carlorqr9strh4trp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.canderm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
