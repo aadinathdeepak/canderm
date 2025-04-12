@@ -1,16 +1,26 @@
-# canderm
+# CanDerm - AI-Powered Dog Skin Disease Detection
 
-A new Flutter project.
+Welcome to **CanDerm**, a Flutter-based mobile application designed to help dog owners identify potential skin diseases in their pets using artificial intelligence. Simply snap a photo of your dog's skin, and the app will analyze it for possible conditions, providing you with a report and recommendations for the next steps.
+
+## Features
+
+- **AI Skin Disease Detection:** Powered by a finetuned DenseNet-121 model, CanDerm analyzes your dog's skin condition and provides disease classification.
+- **Report Generation:** If a disease is detected, a detailed report can be generated and sent to a nearby veterinary clinic.
+- **Easy-to-use Interface:** A clean and minimalistic design makes it simple for dog owners to use the app and receive valuable insights.
+- **User Profile:** The app stores your pet's information, such as name, breed, and age, to personalize your experience.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you're new to Flutter or looking to contribute, here are a few resources to help you get started with the **CanDerm** app:
 
-A few resources to get you started if this is your first Flutter project:
+### 1. **Set up your development environment:**
+Follow these steps to set up Flutter on your machine and get started with **CanDerm**:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Install Flutter: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+- Install required tools: [Flutter Setup Docs](https://flutter.dev/docs/get-started)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. **Run the app:**
+- Clone the repository:
+  ```bash
+  git clone https://github.com/aadinathdeepak/canderm.git
+  cd canderm
