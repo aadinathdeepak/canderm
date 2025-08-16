@@ -4,8 +4,21 @@ Welcome to **CanDerm**, a Flutter-based mobile application designed to help dog 
 
 ## 📽 Demo Video
 
-[🎥 Watch the Demo Video](/demo.mov)
+[🎥 Download & Watch the Demo Video](/demo.mov)
 
+## 📸 App Screenshots
+
+**Sign-In + Profile Setup**  
+![Sign-In and Profile Setup](image4.png)
+
+**Welcome Page + Image Selection**  
+![Welcome Page and Image Selection](image1.png)
+
+**Analysis Result + Nearby Vets**  
+![Analysis Result and Nearby Vets](image2.png)
+
+**Report PDF + Navigation**  
+![Report PDF and Navigation](image3.png)
 
 ## Features
 
