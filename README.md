@@ -2,6 +2,11 @@
 
 Welcome to **CanDerm**, a Flutter-based mobile application designed to help dog owners identify potential skin diseases in their pets using artificial intelligence. Simply snap a photo of your dog's skin, and the app will analyze it for possible conditions, providing you with a report and recommendations for the next steps.
 
+## 📽 Demo Video
+
+[🎥 Watch the Demo Video](/demo.mov)
+
+
 ## Features
 
 - **AI Skin Disease Detection:** Powered by a finetuned DenseNet-121 model, CanDerm analyzes your dog's skin condition and provides disease classification.
