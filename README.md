@@ -26,6 +26,9 @@ Welcome to **CanDerm**, a Flutter-based mobile application designed to help dog 
 - **Report Generation:** If a disease is detected, a detailed report can be generated and sent to a nearby veterinary clinic.
 - **Easy-to-use Interface:** A clean and minimalistic design makes it simple for dog owners to use the app and receive valuable insights.
 - **User Profile:** The app stores your pet's information, such as name, breed, and age, to personalize your experience.
+- **Secure Authentication:** Integrated with Firebase Authentication to provide secure Google sign-in/sign-up for quick and reliable user access.
+- **Local AI Model Hosting:** The TensorFlow Lite model is hosted via a Flask backend and runs locally for fast and private image analysis.
+
 
 ## Getting Started
 
